@@ -1,0 +1,50 @@
+Fold 1:
+  TN: 521, FP: 33, FN: 34, TP: 520
+  Specificity: 0.9404, Sensitivity: 0.9386
+  Accuracy: 0.9395, MCC: 0.8791
+
+Fold 2:
+  TN: 526, FP: 28, FN: 48, TP: 506
+  Specificity: 0.9495, Sensitivity: 0.9134
+  Accuracy: 0.9314, MCC: 0.8634
+
+Fold 3:
+  TN: 530, FP: 23, FN: 42, TP: 512
+  Specificity: 0.9584, Sensitivity: 0.9242
+  Accuracy: 0.9413, MCC: 0.8831
+
+Fold 4:
+  TN: 521, FP: 32, FN: 36, TP: 518
+  Specificity: 0.9421, Sensitivity: 0.9350
+  Accuracy: 0.9386, MCC: 0.8772
+
+Fold 5:
+  TN: 532, FP: 21, FN: 30, TP: 524
+  Specificity: 0.9620, Sensitivity: 0.9458
+  Accuracy: 0.9539, MCC: 0.9080
+
+Fold 6:
+  TN: 509, FP: 44, FN: 23, TP: 531
+  Specificity: 0.9204, Sensitivity: 0.9585
+  Accuracy: 0.9395, MCC: 0.8796
+
+Fold 7:
+  TN: 529, FP: 25, FN: 25, TP: 528
+  Specificity: 0.9549, Sensitivity: 0.9548
+  Accuracy: 0.9548, MCC: 0.9097
+
+Fold 8:
+  TN: 526, FP: 28, FN: 40, TP: 513
+  Specificity: 0.9495, Sensitivity: 0.9277
+  Accuracy: 0.9386, MCC: 0.8773
+
+Fold 9:
+  TN: 527, FP: 27, FN: 38, TP: 515
+  Specificity: 0.9513, Sensitivity: 0.9313
+  Accuracy: 0.9413, MCC: 0.8827
+
+Fold 10:
+  TN: 526, FP: 28, FN: 37, TP: 516
+  Specificity: 0.9495, Sensitivity: 0.9331
+  Accuracy: 0.9413, MCC: 0.8827
+
